@@ -19,7 +19,7 @@
   <a class="layui-btn layui-btn-xs" lay-event="edit">编辑</a>
   <a class="layui-btn layui-btn-danger layui-btn-xs" lay-event="del">删除</a>
 </script>
-<div></div>
+<div>lalalallallalgjkhal</div>
 <div class="layui-tab layui-tab-brief" lay-filter="demo">
   <ul class="layui-tab-title">
     <li class="layui-this">演示说明</li>
